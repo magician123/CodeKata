@@ -1,1 +1,3 @@
 # CodeKata
+
+Practice session
